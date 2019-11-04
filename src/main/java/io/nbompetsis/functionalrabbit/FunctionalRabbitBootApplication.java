@@ -1,6 +1,5 @@
 package io.nbompetsis.functionalrabbit;
 
-import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
